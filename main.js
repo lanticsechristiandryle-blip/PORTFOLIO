@@ -20,11 +20,11 @@
 
 const projects = [
   {
-    title: "Project Alpha",
-    description: "A placeholder project showcasing what you've built. Replace this with a real description of your work and what problem it solves.",
+    title: "CDL Checkers",
+    description: "Classic checkers. Modern feel. No downloads required.",
     tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
-    image: ""  // e.g. "assets/project-alpha.png" or a full URL
+    link: "https://checkers.lanticsechristiandryle.workers.dev/",
+    image: "assets/checkers.png"  // e.g. "assets/project-alpha.png" or a full URL
   },
   {
     title: "Project Beta",
@@ -93,8 +93,8 @@ function renderProjects(container, limit = 0) {
    NAVBAR — hamburger toggle + active link
    ============================================================ */
 function initNav() {
-  const hamburger  = document.querySelector('.hamburger');
-  const mobileNav  = document.querySelector('.mobile-nav');
+  const hamburger = document.querySelector('.hamburger');
+  const mobileNav = document.querySelector('.mobile-nav');
 
   if (hamburger && mobileNav) {
     hamburger.addEventListener('click', () => {
