@@ -24,7 +24,7 @@ const projects = [
     description: "Classic checkers. Modern feel. No downloads required.",
     tags: ["HTML", "CSS", "JavaScript", "GAME", "BOARD GAME", "MINIMALIST"],
     link: "https://checkers.lanticsechristiandryle.workers.dev/",
-    image: "assets/checkers.png"  // e.g. "assets/project-alpha.png" or a full URL
+    image: "assets/checker.png"  // e.g. "assets/project-alpha.png" or a full URL
   },
   {
     title: "task.",
