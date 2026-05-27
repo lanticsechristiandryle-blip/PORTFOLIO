@@ -28,10 +28,17 @@ const projects = [
   },
   {
     title: "task.",
-    description: "AA minimalist task manager with a dark blue theme. Add, edit, and organize tasks with filters, due dates, and drag-and-drop reordering — all saved locally in your browser.",
+    description: "A minimalist task manager with a dark blue theme. Add, edit, and organize tasks with filters, due dates, and drag-and-drop reordering — all saved locally in your browser.",
     tags: ["TASK-MANAGER", "HTML", "CSS", "JavaScript", "LOCAL STORAGE", "DARK THEME", "MINIMALIST"],
     link: "https://todolist.lanticsechristiandryle.workers.dev/",
     image: "assets/todolist.png"
+  },
+  {
+    title: "CONFESSIONAL",
+    description: "An anonymous confession board where anyone can post, vote, and read confessions — no accounts, no tracking, fully ephemeral. ",
+    tags: ["ANONYMOUS", "D1 DATABASE", "SERVERLESS", "HTML", "CSS", "JavaScript", "LOCAL STORAGE", "DARK THEME", "MINIMALIST", "OPEN SOURCE"],
+    link: "https://bbae7146.confessional.pages.dev/",
+    image: "assets/publicboard.png"
   },
   {
     title: "CALCULATOR",
