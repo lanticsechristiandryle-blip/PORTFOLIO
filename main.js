@@ -35,10 +35,10 @@ const projects = [
   },
   {
     title: "CALCULATOR",
-    description: "A simple calculator with a clean design and smooth animations.",
-    tags: ["HTML", "CSS", "JavaScript"],
-    link: "",
-    image: ""
+    description: "A clean, dark-mode calculator with a blue minimalist design, animated background, and keyboard support. Built with vanilla HTML, CSS, and JS.",
+    tags: ["CALCULATOR", "HTML", "CSS", "JavaScript", "DARK THEME", "MINIMALIST"],
+    link: "https://calculator.lanticsechristiandryle.workers.dev/",
+    image: "assets/calculator.png"
   }
 ];
 
